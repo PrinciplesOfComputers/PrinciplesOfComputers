@@ -1,4 +1,3 @@
-
 電腦的原理
 
 第一步是實現計算功能，爲此引入了 PC、register file、ALU、bus 和 main memory。
